@@ -8,4 +8,7 @@
 package definitions;
 
 public class Video {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
