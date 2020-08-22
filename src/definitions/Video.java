@@ -12,5 +12,6 @@ public class Video {
         System.out.println("hello world");
         System.out.println("object-oriented programming");
         int rollOfStudent = 24;
+        String nameOfStudent = "jai";
     }
 }
